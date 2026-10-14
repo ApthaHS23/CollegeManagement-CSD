@@ -3,3 +3,5 @@ Student Name: Aptha H S
 Roll Number: 101
 Department: CSD
 Semester: 4
+Attendance:85%
+Result:PASS
