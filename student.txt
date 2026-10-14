@@ -5,3 +5,4 @@ Department: CSD
 Semester: 4
 Attendance:85%
 Result:PASS
+Feature:Student Profile
